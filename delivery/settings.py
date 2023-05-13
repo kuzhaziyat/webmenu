@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-trl37&4bb8qa9^cg_by!ewr3x+ro26)yxw3r^&h03_0s%8!*3@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['elcar.su','www.elcar.su']
+ALLOWED_HOSTS = ['thedouble.ru','www.thedouble.ru']
 
 
 # Application definition
@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'delivery.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'u1680963_delivery',
-        'USER': 'u1680963_admin',
-        'PASSWORD': 'CLb-G6U-7Fw-QeC',
+        'NAME': 'u2057062_menu',
+        'USER': 'u2057062_admin',
+        'PASSWORD': 'dX4mH1hM6eiK2nA9',
         'HOST': 'localhost'
     }
 }
